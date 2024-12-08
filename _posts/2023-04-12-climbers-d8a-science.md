@@ -5,7 +5,7 @@ title: "Climbers D8a Science"
 
 Since on many days I happily exchange my laptop keyboard for a chalkbag and some rock, one of the first ideas for the blog was to have an eye but for climbing data. Climbing, of course, isn't mainly about crunching numbers; it is a great opportunity to exercise and spend time with friends outdoors, or to compete if you want.
 
-But, turns out climbers have online logbooks! As I dived into the world of climbing databases I wondered: Where do people like  to climb? How long do climbers take to reach a certain grade? Can we predict the hardest grade based on a climber’s physique? If you are not so familiar with the lingo of carabiners and cruxes, you can check out [this paragraph](#climbing_intro).
+But, turns out climbers have online logbooks! As I dived into the world of climbing databases I wondered: Where do people like  to climb? How long do climbers take to reach a certain grade? Can we predict the hardest grade based on a climber’s physique? If you are not so familiar with the lingo of carabiners and cruxes, you can check out [this paragraph](#a-quick-climbing-terminology-overview).
 
 ## What is in the database?
 
@@ -433,11 +433,11 @@ So, comparing rope climbing grades amongst each other can be quite hard
 and bouldering is even harder! So, let’s just keep in mind that if a
 climb is graded higher your best estimate should be to say it is harder,
 but it is really just - an estimate. [Jump back to the
-top.](#the_database).
+top](#what-is-in-the-database).
 
 [2] *Statista. (20120). Distribution of climbers and boulderers
 worldwide as of 2020, by gender.* Retrieved from:
-<a href="https://www.statista.com/statistics/1311405/distribution-climbers-boulderers-gender" target=_"blank">https://www.statista.com/statistics/1311405/distribution-climbers-boulderers-gender</a>
+<a href="https://www.statista.com/statistics/1311405/distribution-climbers-boulderers-gender" target="_blank">https://www.statista.com/statistics/1311405/distribution-climbers-boulderers-gender</a>
 
 [3] *Dwyer. (2019). Social Climbing Has a Whole New Meaning. The New
 York Times.* Retrieved from:
@@ -473,9 +473,7 @@ Pages 39-46, ISSN 2665-9441.* doi:
 [9] The mean time to reach a new grade is calculated for all grades
 harder than 6a, since the data on the lower grades is sparse.
 
-[10] More information on climbing in Elbsandstein can be found &lt;a
-href=“<https://www.thecrag.com/en/climbing/germany/sachsische-schweiz>
-target=”\_blank”&gt;here</a>.
+[10] More information on climbing in Elbsandstein can be found <a href="https://www.thecrag.com/en/climbing/germany/sachsische-schweiz" target="_blank">here</a>.‚
 
 [11] For all parameters estimated we can reject the null hypothesis of
 no correlation with the hardest grade at the 1% significance level.
