@@ -2,7 +2,8 @@
 layout: post
 title: "Climbers D8a Science"
 date: 2023-04-12
-categories: OUTDOORS VISUALIZATIONS
+categories: outdoors visualisations
+---
 
 Since on many days I happily exchange my laptop keyboard for a chalkbag and some rock, one of the first ideas for the blog was to have an eye but for climbing data. Climbing, of course, isn't mainly about crunching numbers; it is a great opportunity to exercise and spend time with friends outdoors, or to compete if you want.
 
