@@ -2,7 +2,7 @@
 layout: post
 title: "Climbers D8a Science"
 date: 2023-04-12
-categories: outdoors visualisations
+categories: outdoors, visualisations
 ---
 
 Since on many days I happily exchange my laptop keyboard for a chalkbag and some rock, one of the first ideas for the blog was to have an eye but for climbing data. Climbing, of course, isn't mainly about crunching numbers; it is a great opportunity to exercise and spend time with friends outdoors, or to compete if you want.
@@ -23,7 +23,7 @@ The United States and Spain emerge as the top climbing destinations for 8a.nu me
 
 <img src="/plots/world_ascents.png" width="3000" />
 
-As for climbing hot spots, most users country of origin are the US and Spain, followed by Sweden, Germany, and Italy. However, for members relative to population size, Norway and Sweden have a higher member share than the US and Spain (maybe not surprising giving the logbooks origins in Sweden). Also, we might slightly be able to trace the Alps in membership percentages, looking at Spain, Switzerland, Austria and Slovenia. Though what about France?[1]
+As for climbing hot spots, most users country of origin are the US and Spain, followed by Sweden, Germany, and Italy. However, for members relative to population size, Norway and Sweden have a higher member share than the US and Spain - maybe not surprising giving the logbooks origins in the North.
 
 <img src="/plots/user_origin.png" width="3000" />
 
@@ -42,11 +42,11 @@ Germany.
 Most 8a.nu climbers are men, with 86.38% of members being men, and
 13.62% women, so far other genders can’t be reported. It is hard to put
 numbers on the gender distribution across the whole climbing community -
-According to a 2020 statista survey[2], the male-female ratio in
+According to a 2020 statista survey[^1], the male-female ratio in
 climbing is approximatelly 75% to 25%, or 60% to 40% after a 2019
-estimate[3] by professional climber Sasha DiGiulian. Assuming the ratio
+estimate[^2] by professional climber Sasha DiGiulian. Assuming the ratio
 of men to women climbing is truly 75% suggests that men climbers are
-more likely than women to log their climbs on 8a.nu.[4]
+more likely than women to log their climbs on 8a.nu.[^3]
 
 <img src="/plots/user_per_gender_and_age.png" width="3000" />
 
@@ -67,9 +67,9 @@ average, men are 178cm tall, whereas women measure 165cm on average. The
 respective means of Body Mass Index (BMI) are 22.2 and 20.11. The BMI is
 a simple weight-for-height index and commonly used to classify
 underweight, overweight and obesity. Given that the worldwide BMI
-averages are 24.5 (men) and 25 (women)[5], the climbers mean BMIs are
-significantly lower[6] than the average persons BMI. According to the
-World Health Organization, a healthy adult BMI ranges from 18.5-24.9.[7]
+averages are 24.5 (men) and 25 (women)[^4], the climbers mean BMIs are
+significantly lower[^5] than the average persons BMI. According to the
+World Health Organization, a healthy adult BMI ranges from 18.5-24.9.[^6]
 While this indicates that many logbook members and in particularly women
 have a self-reported weight in the underweight area, this also places
 the worldwide BMI averages on the line of obesity.
@@ -132,7 +132,7 @@ might be a motivation.
 <img src="/plots/hardest_grade_per_gender_in_gender.png" width="3000" />
 
 Comparing men and women, we see that men climb on average slightly
-higher grades. However, as highlighted in a 2021 research paper[8] the
+higher grades. However, as highlighted in a 2021 research paper[^7] the
 gender performance gap in rock climbing is relatively small compared to
 other sports. Measuring climbing ability with the hardest grade ever
 climbed places 3 females in the top 90 climbers of all time.
@@ -143,7 +143,7 @@ competitors (measuring ability with time taken for the 100-m run).
 
 #### On average, 8a.nu climbers take over a year to reach a new grade
 
-The average time to reach a new grade is 14.59 month.[9] Only looking at
+The average time to reach a new grade is 14.59 month.[^8] Only looking at
 the mean however does not take into account that climbing progression
 seems to be convex: The harder the grade, the longer it takes to
 level-up. For example, the jump from 6a to 6a+ takes on average 3
@@ -201,7 +201,7 @@ immediately pointed out, that this would never be true in this very
 special soft sandstone. Climbing in this area is mostly free climbing of
 free-standing sandstone towers, following stout ethics, including no or
 sparse metal protection and no use of chalk. Also, due to its pecularity
-the area has its own grading system.[10] As the below figure shows,
+the area has its own grading system.[^9] As the below figure shows,
 fewer harder grades are climbed in Elbsandstein than on average, and the
 time to reach the easier grades is much slower than in other countries.
 So this is one example to illustrate that while grading climbs is very
@@ -219,7 +219,7 @@ non-linear effects), experience (in years) and average logs per month
 (to capture activity and motivation).
 
 We find all variables estimated to be relevant for climbing performance,
-measured as the hardest grade climbed.[11] Approximately, on average,
+measured as the hardest grade climbed.[^10] Approximately, on average,
 men climb almost 3 grades harder as women. Concerning physique, height
 has a positive correlation with climbing performance, whereas weight has
 a negative one. Also, experience and motivation increase climbing
@@ -437,15 +437,15 @@ climb is graded higher your best estimate should be to say it is harder,
 but it is really just - an estimate. [Jump back to the
 top](#what-is-in-the-database).
 
-[2] *Statista. (20120). Distribution of climbers and boulderers
+[^1]: *Statista. (20120). Distribution of climbers and boulderers
 worldwide as of 2020, by gender.* Retrieved from:
 <a href="https://www.statista.com/statistics/1311405/distribution-climbers-boulderers-gender" target="_blank">https://www.statista.com/statistics/1311405/distribution-climbers-boulderers-gender</a>
 
-[3] *Dwyer. (2019). Social Climbing Has a Whole New Meaning. The New
+[^2]: *Dwyer. (2019). Social Climbing Has a Whole New Meaning. The New
 York Times.* Retrieved from:
 <a href="https://www.nytimes.com/2019/11/14/style/bouldering.html" target="_blank">https://www.nytimes.com/2019/11/14/style/bouldering.html</a>
 
-[4] Based on a test of given or equal proportions as in Wilson (1927),
+[^3]: Based on a test of given or equal proportions as in Wilson (1927),
 the null hypothesis that the share of men in the 8a.nu community is
 smaller or equal to 0.75% can be rejected at the 95% confidence level.
 Also, this assumes that the share of men climbing was 75% in 2017.
@@ -453,29 +453,29 @@ Also, this assumes that the share of men climbing was 75% in 2017.
 statistical inference. Journal of the American Statistical Association,
 22, 209–212. 10.2307/2276774.*
 
-[5] *Hannah Ritchie and Max Roser. (2017). Obesity. Published online at
+[^4]: *Hannah Ritchie and Max Roser. (2017). Obesity. Published online at
 OurWorldInData.org.* Retrieved from:
 <a href="https://ourworldindata.org/obesity" target="_blank">https://ourworldindata.org/obesity</a>
 
-[6] Based on a one-sample student t-test as in Student (1908), the null
+[^5]: Based on a one-sample student t-test as in Student (1908), the null
 hypothesis that the climbers BMI is higher or equal than the worldwide
 average for each gender can be rejected at the 95% confidence level for
 both men and women. *Student. (1908). The probable error of a mean.
 Biometrika, 6(1), 1-25.*
 
-[7] *World Health Organization. (2010). A healthy lifestyle - WHO
+[^6]: *World Health Organization. (2010). A healthy lifestyle - WHO
 recommendations.* Retrieved from:
 <a href="https://www.euro.who.int/en/health-topics/disease-prevention/nutrition/a-healthy-lifestyle/body-mass-index-bmi" target="_blank">https://www.euro.who.int/en/health-topics/disease-prevention/nutrition/a-healthy-lifestyle/body-mass-index-bmi</a>
 
-[8] *Collin Carroll, Female excellence in rock climbing likely has an
+[^7]: *Collin Carroll, Female excellence in rock climbing likely has an
 evolutionary origin, Current Research in Physiology, Volume 4, 2021,
 Pages 39-46, ISSN 2665-9441.* doi:
 <a href="https://doi.org/10.1016/j.crphys.2021.01.004" target="_blank">https://doi.org/10.1016/j.crphys.2021.01.004</a>,
 
-[9] The mean time to reach a new grade is calculated for all grades
+[^8]: The mean time to reach a new grade is calculated for all grades
 harder than 6a, since the data on the lower grades is sparse.
 
-[10] More information on climbing in Elbsandstein can be found <a href="https://www.thecrag.com/en/climbing/germany/sachsische-schweiz" target="_blank">here</a>.‚
+[^9]: More information on climbing in Elbsandstein can be found <a href="https://www.thecrag.com/en/climbing/germany/sachsische-schweiz" target="_blank">here</a>.‚
 
-[11] For all parameters estimated we can reject the null hypothesis of
+[^10]: For all parameters estimated we can reject the null hypothesis of
 no correlation with the hardest grade at the 1% significance level.
