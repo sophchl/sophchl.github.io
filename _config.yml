@@ -20,7 +20,7 @@ timezone: Europe/Zurich
 
 title: Scratching heads about tails # the main title
 
-tagline: 🌄🧗‍♀️🎿🐓🍜🌾 # it will display as the sub-title
+tagline: Welcome to my Blog 🌄🌾 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   This is a blog, intended to share some writing and data science projects about topics I am generously curious about: climbing, exercise, data processing and visualization, co2-consumtion, and others (hopefully).
