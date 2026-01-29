@@ -2,7 +2,8 @@
 layout: post
 title: "Climbers D8a Science"
 date: 2023-04-12
-categories: outdoors, visualisations
+categories: outdoors
+tags: climbing visualizations
 ---
 
 Since on many days I happily exchange my laptop keyboard for a chalkbag and some rock, one of the first ideas for the blog was to have an eye but for climbing data. Climbing, of course, isn't mainly about crunching numbers; it is a great opportunity to exercise and spend time with friends outdoors, or to compete if you want.
@@ -430,52 +431,28 @@ And then of course there is the **difficulty of a route**.
     similar way (ranges from 1 to 8c+, uses a,b,c and +), but the grades
     are not equivalent to the rope climbing grades (🤯).
 
-So, comparing rope climbing grades amongst each other can be quite hard
-(different rock, quality of protection etc), and comparing rope climbing
-and bouldering is even harder! So, let’s just keep in mind that if a
-climb is graded higher your best estimate should be to say it is harder,
-but it is really just - an estimate. [Jump back to the
-top](#what-is-in-the-database).
+So, comparing rope climbing grades amongst each other can be quite hard (different rock, quality of protection etc), and comparing rope climbing and bouldering is even harder! So, let’s just keep in mind that if a climb is graded higher your best estimate should be to say it is harder, but it is really just - an estimate. [Jump back to the top](#what-is-in-the-database).
 
-[^1]: *Statista. (20120). Distribution of climbers and boulderers
-worldwide as of 2020, by gender.* Retrieved from:
-<a href="https://www.statista.com/statistics/1311405/distribution-climbers-boulderers-gender" target="_blank">https://www.statista.com/statistics/1311405/distribution-climbers-boulderers-gender</a>
+_____
 
-[^2]: *Dwyer. (2019). Social Climbing Has a Whole New Meaning. The New
-York Times.* Retrieved from:
-<a href="https://www.nytimes.com/2019/11/14/style/bouldering.html" target="_blank">https://www.nytimes.com/2019/11/14/style/bouldering.html</a>
+## Footnotes
 
-[^3]: Based on a test of given or equal proportions as in Wilson (1927),
-the null hypothesis that the share of men in the 8a.nu community is
-smaller or equal to 0.75% can be rejected at the 95% confidence level.
-Also, this assumes that the share of men climbing was 75% in 2017.
-*Wilson, E.B. (1927). Probable inference, the law of succession, and
-statistical inference. Journal of the American Statistical Association,
-22, 209–212. 10.2307/2276774.*
+[^1]: *Statista. (20120). Distribution of climbers and boulderers worldwide as of 2020, by gender.* Retrieved from: <a href="https://www.statista.com/statistics/1311405/distribution-climbers-boulderers-gender" target="_blank">https://www.statista.com/statistics/1311405/distribution-climbers-boulderers-gender</a>
 
-[^4]: *Hannah Ritchie and Max Roser. (2017). Obesity. Published online at
-OurWorldInData.org.* Retrieved from:
-<a href="https://ourworldindata.org/obesity" target="_blank">https://ourworldindata.org/obesity</a>
+[^2]: *Dwyer. (2019). Social Climbing Has a Whole New Meaning. The New York Times.* Retrieved from: <a href="https://www.nytimes.com/2019/11/14/style/bouldering.html" target="_blank">https://www.nytimes.com/2019/11/14/style/bouldering.html</a>
 
-[^5]: Based on a one-sample student t-test as in Student (1908), the null
-hypothesis that the climbers BMI is higher or equal than the worldwide
-average for each gender can be rejected at the 95% confidence level for
-both men and women. *Student. (1908). The probable error of a mean.
-Biometrika, 6(1), 1-25.*
+[^3]: Based on a test of given or equal proportions as in Wilson (1927), the null hypothesis that the share of men in the 8a.nu community is smaller or equal to 0.75% can be rejected at the 95% confidence level. Also, this assumes that the share of men climbing was 75% in 2017. *Wilson, E.B. (1927). Probable inference, the law of succession, and statistical inference. Journal of the American Statistical Association, 22, 209–212. 10.2307/2276774.*
 
-[^6]: *World Health Organization. (2010). A healthy lifestyle - WHO
-recommendations.* Retrieved from:
-<a href="https://www.euro.who.int/en/health-topics/disease-prevention/nutrition/a-healthy-lifestyle/body-mass-index-bmi" target="_blank">https://www.euro.who.int/en/health-topics/disease-prevention/nutrition/a-healthy-lifestyle/body-mass-index-bmi</a>
+[^4]: *Hannah Ritchie and Max Roser. (2017). Obesity. Published online at OurWorldInData.org.* Retrieved from: <a href="https://ourworldindata.org/obesity" target="_blank">https://ourworldindata.org/obesity</a>
 
-[^7]: *Collin Carroll, Female excellence in rock climbing likely has an
-evolutionary origin, Current Research in Physiology, Volume 4, 2021,
-Pages 39-46, ISSN 2665-9441.* doi:
-<a href="https://doi.org/10.1016/j.crphys.2021.01.004" target="_blank">https://doi.org/10.1016/j.crphys.2021.01.004</a>,
+[^5]: Based on a one-sample student t-test as in Student (1908), the null hypothesis that the climbers BMI is higher or equal than the worldwide average for each gender can be rejected at the 95% confidence level for both men and women. *Student. (1908). The probable error of a mean. Biometrika, 6(1), 1-25.*
 
-[^8]: The mean time to reach a new grade is calculated for all grades
-harder than 6a, since the data on the lower grades is sparse.
+[^6]: *World Health Organization. (2010). A healthy lifestyle - WHO recommendations.* Retrieved from: <a href="https://www.euro.who.int/en/health-topics/disease-prevention/nutrition/a-healthy-lifestyle/body-mass-index-bmi" target="_blank">https://www.euro.who.int/en/health-topics/disease-prevention/nutrition/a-healthy-lifestyle/body-mass-index-bmi</a>
+
+[^7]: *Collin Carroll, Female excellence in rock climbing likely has an evolutionary origin, Current Research in Physiology, Volume 4, 2021, Pages 39-46, ISSN 2665-9441.* doi: <a href="https://doi.org/10.1016/j.crphys.2021.01.004" target="_blank">https://doi.org/10.1016/j.crphys.2021.01.004</a>,
+
+[^8]: The mean time to reach a new grade is calculated for all grades harder than 6a, since the data on the lower grades is sparse.
 
 [^9]: More information on climbing in Elbsandstein can be found <a href="https://www.thecrag.com/en/climbing/germany/sachsische-schweiz" target="_blank">here</a>.‚
 
-[^10]: For all parameters estimated we can reject the null hypothesis of
-no correlation with the hardest grade at the 1% significance level.
+[^10]: For all parameters estimated we can reject the null hypothesis of no correlation with the hardest grade at the 1% significance level.
