@@ -7,7 +7,7 @@
    ========================= */
 
 /* Smaller base type */
-html { font-size: 15px; }          /* try 14px–15px */
+html { font-size: 16px; }          /* try 14px–15px */
 body { font-weight: 300; }         /* lighter; use 400 if it looks too thin */
 
 /* Optional: slightly smaller headings */
@@ -39,7 +39,7 @@ body { line-height: 1.55; }
   color: #000 !important;
 }
 .masthead__menu-item a:hover {
-  color: #cbd5e1 !important;
+  color: #939aa3 !important;
 }
 
 /* Prevent white boxes on items/toggle */
