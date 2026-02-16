@@ -1,0 +1,65 @@
+/* ==========================================================================
+    CUSTOM OVERWRITE TO THEMES
+    ========================================================================== */
+
+/* =========================
+   FONT
+   ========================= */
+
+/* Smaller base type */
+html { font-size: 15px; }          /* try 14px–15px */
+body { font-weight: 300; }         /* lighter; use 400 if it looks too thin */
+
+/* Optional: slightly smaller headings */
+h1 { font-size: 1.5rem; }
+h2 { font-size: 1.2rem; }
+h3 { font-size: 1.0rem; }
+
+/* Optional: slightly tighter but readable */
+body { line-height: 1.55; }
+
+/* =========================
+   HEADER / NAV (clean)
+   ========================= */
+
+/* Solid header bar */
+.masthead,
+.site-header,
+.masthead__inner-wrap,
+.greedy-nav {
+  background: var(--global-base-color) !important;
+  border: 0 !important;
+  border-bottom: 0 !important;
+  box-shadow: none !important;
+  background-image: none !important;
+}
+
+/* Links */
+.masthead__menu-item a {
+  color: #000 !important;
+}
+.masthead__menu-item a:hover {
+  color: #cbd5e1 !important;
+}
+
+/* Prevent white boxes on items/toggle */
+.greedy-nav a,
+.greedy-nav__toggle,
+.greedy-nav .masthead__menu-item {
+  background: transparent !important;
+  border: 0 !important;
+  box-shadow: none !important;
+}
+
+/* Dropdown panel (hamburger/overflow) */
+.greedy-nav .hidden-links {
+  background: var(--global-base-color) !important;
+  border: 0 !important;
+  box-shadow: none !important;
+}
+.greedy-nav .hidden-links a {
+  color: #000 !important;
+}
+
+/* Any divider pseudo-element */
+.masthead::after { display: none !important; }
