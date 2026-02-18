@@ -34,14 +34,6 @@ body { line-height: 1.55; }
   background-image: none !important;
 }
 
-/* Links */
-.masthead__menu-item a {
-  color: #000 !important;
-}
-.masthead__menu-item a:hover {
-  color: #939aa3 !important;
-}
-
 /* Prevent white boxes on items/toggle */
 .greedy-nav a,
 .greedy-nav__toggle,
